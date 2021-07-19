@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="39911" started-at="2021-04-23T11:26:11 IST" finished-at="2021-04-23T11:26:51 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="39911" started-at="2021-04-23T11:26:11 IST" finished-at="2021-04-23T11:26:51 IST">
+      <class name="tests.ConceptsTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tests.ConceptsTest@65d09a04]" name="initialize" is-config="true" duration-ms="16079" started-at="2021-04-23T11:26:11 IST" finished-at="2021-04-23T11:26:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="handleDynamicDropdown()[pri:0, instance:tests.ConceptsTest@65d09a04]" name="handleDynamicDropdown" duration-ms="12875" started-at="2021-04-23T11:26:27 IST" finished-at="2021-04-23T11:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleDynamicDropdown -->
+        <test-method status="PASS" signature="softAssert()[pri:0, instance:tests.ConceptsTest@65d09a04]" name="softAssert" duration-ms="738" started-at="2021-04-23T11:26:40 IST" depends-on-methods="tests.ConceptsTest.handleDynamicDropdown" finished-at="2021-04-23T11:26:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- softAssert -->
+        <test-method status="PASS" signature="countLinks()[pri:0, instance:tests.ConceptsTest@65d09a04]" name="countLinks" duration-ms="405" started-at="2021-04-23T11:26:41 IST" depends-on-methods="tests.ConceptsTest.softAssert" finished-at="2021-04-23T11:26:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countLinks -->
+        <test-method status="PASS" signature="multipleWindows()[pri:0, instance:tests.ConceptsTest@65d09a04]" name="multipleWindows" duration-ms="4801" started-at="2021-04-23T11:26:41 IST" depends-on-methods="tests.ConceptsTest.countLinks" finished-at="2021-04-23T11:26:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleWindows -->
+        <test-method status="PASS" signature="close()[pri:0, instance:tests.ConceptsTest@65d09a04]" name="close" is-config="true" duration-ms="4913" started-at="2021-04-23T11:26:46 IST" finished-at="2021-04-23T11:26:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.ConceptsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

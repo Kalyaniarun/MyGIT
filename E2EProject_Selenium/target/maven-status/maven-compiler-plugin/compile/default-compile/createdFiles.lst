@@ -1,0 +1,8 @@
+pageObjects\SpiceJetGiftCardPage.class
+pageObjects\ILovePDFHomePage.class
+pageObjects\IPLHomePage.class
+resources\ExtentReporterNG.class
+pageObjects\SpiceJetHomePage.class
+resources\Base.class
+constants\Constants.class
+pageObjects\IPLStatsPage.class

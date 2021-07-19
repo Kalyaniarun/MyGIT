@@ -1,0 +1,5 @@
+20:29:10.759 [main] INFO  facebook.Login - ======= Driver Closed ========
+21:29:28.982 [main] INFO  tests.Concepts - ==== Initialized Driver ====
+21:29:42.759 [main] INFO  tests.Concepts - ==== Total number of links in the page: 497 ====
+21:29:42.891 [main] INFO  tests.Concepts - ==== Total number of links in the footer section: 34 ====
+21:29:55.555 [main] INFO  tests.Concepts - ======= Driver Closed ========

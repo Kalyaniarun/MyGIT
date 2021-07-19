@@ -1,0 +1,7 @@
+20:25:51.986 [main] INFO  facebook.Login - ======= Logged in ========
+20:25:56.289 [main] INFO  facebook.Login - ======= Driver Closed ========
+20:28:50.550 [main] INFO  facebook.MyAccount - ======= Initialized Driver ========
+20:28:52.407 [main] INFO  facebook.MyAccount - ======= Account Created ========
+20:28:55.881 [main] INFO  facebook.MyAccount - ======= Driver Closed ========
+20:29:05.346 [main] INFO  facebook.Login - ======= Initialized Driver ========
+20:29:09.096 [main] INFO  facebook.Login - ======= Logged in ========
